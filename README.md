@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhijatya-Bhattacharya
+- 👋 Hi, I’m @Abhijatya
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Programming
 
