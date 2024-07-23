@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Abhijatya
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently Not learning Programming
+- Just Eating & Sleeping
+- & Overthinking
 
 <!---
 Abhijatya-Bhattacharya/Abhijatya-Bhattacharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
